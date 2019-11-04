@@ -1,5 +1,5 @@
 # Optimized-SEABED
-Optimized SEABED in speed and clustering quality
+Optimized clustering algorithm SEABED in speed and clustering quality  
 The original code for SEABED https://github.com/HenryYuen128/SEABED-py3
 
 KMBased - SEABED based on KMeans  
